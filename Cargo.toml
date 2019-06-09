@@ -1,0 +1,9 @@
+[package]
+name = "chatserver"
+version = "0.1.0"
+authors = ["kimura"]
+edition = "2018"
+
+[dependencies]
+mio = "0.6.19"
+byteorder = "1"
